@@ -8,6 +8,12 @@
 
 ## Requires AutoHotKey from [ahkscript.org](http://ahkscript.org/download/) NOT autohotkey.com!
 
+# Updating Leagues
+
+To see a list of active leagues that the macro can use, go to http://api.exiletools.com/ladder and scroll down to active leagues. This macro uses "friendly short names" rather than full league names.
+
+As of 2016/06, the active leagues include `standard`, `hardcore`, `prophecy`, and `prophecyhc`
+
 # How to Install
 
 1. Download AutoHotKey 1.1.22+ from ahkscript.org (not autohotkey.com - that's different!).
@@ -47,7 +53,7 @@ Results are primarily returned in Chaos Equivalent Values (CEV). These values ar
 
 ![Examples](http://exiletools.com/img/price-examples.jpg)
 
-# Know Issues
+# Known Issues
 
 Known Issues:
 
