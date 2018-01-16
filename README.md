@@ -1,3 +1,9 @@
+# This project was shut down back in 2015
+
+If you're interested in seeing some old code though, it's still around. I highly suggest checking out the "POE Trade Macro" which has much more utility and replaced this macro after I abandoned it.
+
+------------
+
 # ExileTools In-Game Price Comparison Macro
 
 ## Quickly check prices and availability of items without leaving the game!
